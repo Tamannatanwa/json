@@ -1,0 +1,4 @@
+"name aniket"
+"age 19"
+"class BA2year"
+"color white"
